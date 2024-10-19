@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabric-example-mod:block/example_ore"
+    }
+  }
+}

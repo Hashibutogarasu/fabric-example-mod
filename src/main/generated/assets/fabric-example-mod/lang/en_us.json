@@ -1,0 +1,8 @@
+{
+  "block.fabric-example-mod.example_block": "Example Block",
+  "block.fabric-example-mod.example_deepslate_ore": "Example Deepslate Ore",
+  "block.fabric-example-mod.example_nether_ore": "Example Nether Ore",
+  "block.fabric-example-mod.example_ore": "Example Ore",
+  "item.fabric-example-mod.example_item": "Example Item",
+  "itemGroup.fabric_example_mod.example_group": "Fabric Example Mod"
+}
